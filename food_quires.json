@@ -1,0 +1,68 @@
+{"intents":
+[
+            {
+             "tag":"greetings",
+             "patterns": ["hello","hey","hi","good day","greetings","what's up?","how is it going"],
+             "responses":["hello","hey!","what can i do for you?"]
+            },
+            {
+             "tag":"goodbye",
+             "patterns": ["see you later","goodbye","have a good day","bye","see ya"],
+             "responses":["have a nice day","goodbye"]
+            },
+            
+            
+            {
+                "tag":"Masala Karela Recipe",
+                "patterns":["cups rice - tomatoes-teaspoons BC Belle Bhat powder - salt - as per taste - teaspoon chickpea lentils - teaspoon cumin seeds -teaspoon white urad dal"],
+                "responses":["To make tomato puliogere, first cut the tomatoes. Now put in a mixer grinder and puree it. Now heat oil in a pan. After the oil is hot, add chana dal, urad dal, cashew and let it  and it take 15 minutes time to prepare, it contain 150 calories and you can whatch vedio link is http://www.archanaskitchen.com/spicy-tomato-rice-recipe-in-hindi, And Cookking Time is : 20min, Calories : 356kCal"]
+               },
+               {
+                "tag":"Corn Bhel Recipe",
+                "patterns":["cup Sweet corn - boiled",
+                "Onion - chopped",
+                "Potato boiled",
+                "tablespoons Sweet Chutney",
+                "tablespoons Green Chutney"
+                ],
+                "responses":["To begin making the Corn Bhel recipe, take a mixing bowl and mix corn kernels, onion, potato, green chillies and coriander leaves well.Add both date tamarind, dhaniya, and it take 45 minutes time to prepare, it contain 180 calories and you can watch vedio link is http://www.archanaskitchen.com/corn-bhel-recipe"]
+               },
+               {
+                "tag":"Avocado Mint Soup Recipe",
+                "patterns": ["Avocados", "cloves Garlic - chopped", "Ginger - chopped","Onion - chopped", "Mint Leaves", "Extra Virgin Olive Oil - as required", "Fresh Red chillies"],
+                "responses":["To begin making the Avocado Mint Soup recipe, take a saucepan, add the required olive oil and saute garlic, red chilli and onion. Allow it to cool.Blend avocado and the fried,and it take 30 minutes time to prepare, it contain 100 calories and you can watch vedio link ishttps://www.archanaskitchen.com/avocado-mint-soup-recipe"]
+               },
+               {
+                "tag":"Golgappa Chaat Recipe",
+                "patterns":["cup Sooji","cup All Purpose Flour", "Sunflower Oil for making dough and deep frying", "teaspoon Cumin powder (Jeera) - roasted","teaspoon"],
+               
+                "responses":["Let us begin making the Gol Gappa Chaat Recipe by looking at how to make the Gol Gappas : Instruction for Gol GappaTake Maida, suji and oil in any utensil and mix these contents properly. With the help of water, knead a dough for hard Puri (press dough well while kneading). Cover the dough and leave it aside for 15-20 mins to ferment and rise.Break a big round (guava sized) piece off the dough, roll this round piece into a circle. With the help of a small lid, cut as many round puris possible, take the small circles and keep them on a plate.Mix the dough that is leftover to the main dough and repeat the same process till you have made puris of the entire dough. Now take one puri at a time and roll it a little making it thinner. You can roll them length-wise to make long puri or circular to make round puris.Heat the oil on medium-high heat. Start frying the puris, starting first with the puri you first rolled.Put one puri in the oil and press lightly. When it puffs turn over and put another puri in the oil. Keep adding 6-8 puris at a time. Fry the puris until they are golden-brown all around by turning a few times. You may adjust the heat as needed while frying.Take the puris out and place over a paper towel, so the excess oil is absorbed.Instruction for assembling chaatPeel the boiled potato and cut into small cubes. Add some salt into it and mix it well. With the help of a finger make a hole in the each gol gappa and stuff the potato cubes. You can also stuff sprouts and boiled kala chana in the gol gappas.Whisk the yoghurt well with sugar and salt as to taste.Place gol gappas on a plate and cover with yoghurt.Drizzle mint chutney and tamarind chutney. Sprinkle red chilli powder, boondi, cumin powder.Garnish with coriander/mint leaves, red chilli powder and chaat masala and your Gol Gappa Chaat is ready to be served and devoured immediately.Serve the Golgappa Chaat Recipe as a great Appetizer idea for any get-together Party along with a meal of Spinach Paneer Kofta Curry, Whole Wheat Palak Naan, Chana Pulao, Tomato Onion Cucumber Raita  and Chironji And Makhane Ki Kheer  and for preparation it takes one and half  hour time and it contain 250 calories and preparation vedio u can see at https://www.archanaskitchen.com/gol-gappa-chaat-recipe"]
+               },
+               {
+                "tag":"Dal",
+                "patterns":["dal","onion", "mirchi","oil","lemon"],
+                "responses":["How to make Dal Ingredients required:1 cup dal you can use a mix of arhar and skinless masoor in the ration 3:1, 4 cups water, 1 chopped tomato, ½ tsp turmeric powder, 1 pinch asafetida, ½ tsp cumin seeds, 3 green chillies, 1 bay leaf, 1 tbsp ghee, some coriander leaves and salt as per taste.Method: Step 1:Firstly wash the dal properly and soak it in water for 20 minutes.Step 2:Now put it in a pressure cooker, along with 4 cups of water, finely chopped tomatoes, turmeric, bay leaf and salt. Pressure cook for 3 whistles and let the steam release on its own.Step 3:For the tadka or tempering, heat one tablespoon ghee in a tempering ladle. Add cumin seeds and asafetida. Allow to splutter. Put the tadka in the dal and cover the lid. This will enable the absorption of aroma.Step 4:Now add slit green chillies and coriander leaves and allow the dal to simmer for two minutes.Step 5:Your dal is ready to be served. and it take preparation time 60 minutes and it contain 350 calories and you can watch the making vedi at https://youtu.be/nZSxOiLOUro"]
+               },
+               {
+                "tag":"Chicken65",
+                "patterns":["Chicken","onion","ginger","garlic","greenchilli","redchillipowder","turmeric","garammasala"],
+                "responses":["How to make Chicken65 Ingredients required:Boneless chicken breasts, cut into 1 inch pieces 400 grams,Oil 2 tablespoons,Mustard seeds 1 teaspoon,Dried red chillies 2,Curry leaves 6-8 + for garnish,Garlic ,chopped 1 tablespoon,Ginger , finely chopped 1 inch,Yogurt 1 cup,Salt to taste,Turmeric powder 1/4 teaspoonRoasted cumin powder 1/2 teaspoon,Coriander powder 1 teaspoon,Red chilli powder 1 teaspoon,Red chilli paste 1 tablespoon,Cornflour/ corn starch 1 tablespoon,Black pepper powder 1/4 teaspoon,Egg 1,Lemon wedges to serve,Method: Step 1:Heat 1 tablespoon oil in a non-stick pan, add mustard seeds and let them splutter. Break dried red chillies and add with 6-8 curry leaves, mix and saute for 1 minute.Step 2:Add garlic and ginger, mix and sauté for 1 minute. Switch off heat, cool and grind into a coarse powder.Step 3:Take yogurt in a bowl, add the ground powder, salt, turmeric powder, cumin powder, coriander powder, red chilli powder and red chilli paste and mix well.Step 4:Add cornflour and black pepper powder and mix well. Break the egg into the bowl and mix. Add chicken pieces, mix well and set aside to marinate for 30-40 minutes.Step 5:Insert marinated chicken pieces onto skewers and apply the remaining marinade over them.Step 6:Heat remaining oil in a non-stick grill pan, place the skewers in it and grill, rotating the skewers for even cooking all around, till golden brown and fully cooked.Step 7:Place the skewers on a serving platter, garnish with curry leaves and serve hot with lemon wedges.and it takes 60 minites of time  for preparation, it contain 200 calories, you can watch the making vedio at https://youtu.be/sqxT9Po9gUI"]
+               },
+               {
+                "tag":"EggOmelette",
+                "patterns":["Egg","oil","greenchilli","onions"],
+                "responses":["How to make Egg Omelette Ingredients required:4 eggs, 1 medium onion, thinly chopped, 4 green chillies, finely chopped, 3/4 teaspoon black pepper powder, Few coriander leaves, finely chopped, 1 tablespoon oil, Salt to taste, Fresh coriander leaves chopped, salt to taste,Method: Step 1:Heat a non-stick pan over high flame. Whisk the eggs in a bowl. Mix all the ingredients thoroughly with the eggs.Step 2:When tawa is heated through, lower the flame and pour half of the egg mixture and spread evenly.Step 3:Drizzle few drops of oil and let it cook for 3-4 minutes. Check the omelette from down side and if it looks cooked, then carefully flip and cook for one more minute. Step 4:Serve immediately with Toasted bread slices and tomato ketchup.Step 5:Make one more omelette from the rest of egg mixture. for making it takes 15 minites of time and it contain 150 calories and you watch the making vedio at https://youtu.be/7dV4Qw8qdsA"]
+               },
+               {
+                "tag":"GobiManchurian",
+                "patterns":["Cauliflower","chilli","Onion"],
+                "responses":["How to make GobiManchurian Ingredients required:Cauliflower, All Purpose Flour 1/2 cup, Corn Flour 1/4 cup, Red chilli powder 1 teaspoon, Salt to taste, Corn flour 1/2 tablespoon, Oil 2 tablespoons + for deep-frying, Cauliflower cut into large florets 1 medium-sized Onion finely chopped 1 medium, Garlic finely chopped 1 tablespoon, Ginger finely chopped 1 tablespoon, Green chilli finely chopped 1 tablespoon, White pepper powder 1/4 teaspoon, Soya sauce 2 tablespoons, Sweet chilli sauce 2 tablespoons, Fresh coriander leaves finely chopped 2 tablespoons, Green onion finely chopped for garnish 1,                Method: Step 1:Combine together refined flour, corn flour, red chili powder, salt and a little bit of water to form a thick batter.Step 2:Dissolve ½ tablespoon cornflour in half cup water and keep aside.Step 3:Heat the oil in a pan and deep fry florets coated with batter, till golden brown. Remove and drain on an absorbant paper and keep aside.Step 4:Heat two tablespoon oil in a non stick pan. Add the chopped onions, ginger, garlic and green chilies saute for two minutes.Step 5:Add white pepper powder, soy sauce, sweet chilli sauce and salt.Step 6:Cook for a minute and add the corn flour and water mixture. Add a little water and let simmer till the sauce becomes thick. Add the fried cauliflower florets and cook for another 2-3 minutes.Step 7:Garnish with chopped spring onions and coriander leaves. it takes 60 minutes for making, it contain 150 calories, to watch making vedio you can click in this link https://youtu.be/6H0a6gXHEo4"]
+               },
+               {
+                "tag":"Butterchicken",
+                "patterns":["onion","garlic","ginger","butter","chicken","tomatopuree"],
+                "responses":["How to make Butterchicken step 1: Marinate the chicken: Mix yogurt, lemon juice, ginger-garlic paste, and spices (such as turmeric, chili powder, and garam masala) in a bowl. Add chicken pieces and coat them well. Let it marinate for at least 30 minutes.step 2: Cook the chicken: Heat oil in a pan and add the marinated chicken. Cook until the chicken is browned and cooked through. Remove the chicken from the pan and set it aside.step 3: Prepare the sauce: In the same pan, melt butter and add chopped onions. Cook until the onions are soft and translucent. Add ginger-garlic paste and cook for a minute. Then, add tomato puree and cook until the raw smell disappears. Add spices like turmeric, chili powder, and garam masala. Cook for a few minutes.step 4: Blend the sauce: Let the sauce cool down a bit and then blend it in a blender until smooth. Return the blended sauce to the pan.step 5: Add cream and chicken: Add cream to the sauce and mix well. Add the cooked chicken pieces and simmer for a few minutes until the flavors meld together. Adjust the seasoning according to your taste.step 6: Serve: Garnish with fresh cilantro and serve the Butter Chicken hot with naan or rice.it contain 280 calories and to make this recipe it takes 100 minutes time, for watching the making vedio you can click in this link https://www.youtube.com/watch?v=a03U45jFxOI"]
+               }
+              
+]}
+        
